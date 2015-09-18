@@ -1,0 +1,3 @@
+[en]
+COMMANDS = Commands
+COMMAND_PREFIXES = Command Prefixes

@@ -1,0 +1,3 @@
+[en]
+ZP_CLASS_MENU = ZP Class Menu
+ZP_GROUP_MENU = ZP Group Menu
